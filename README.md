@@ -25,7 +25,7 @@ Lesson number | Lessons (Python)
  
 Lesson number | Lessons (Micro:bit)
 ------------- | -------------
- Sexteen      | Intro to micro:bit and Mu Editor                 
+ Sixteen      | Intro to micro:bit and Mu Editor                 
  Seventeen    | Data Types                                         
  Eightteen    | Inputs/Handing Buttons                                 
  Nineteen     | Radio (sending strings)                                   
